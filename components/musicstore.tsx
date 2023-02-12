@@ -5,7 +5,7 @@ export const Musicstore: NextPage = () => {
         <>
             <div className="musicstore">
                 <div className="musicstore_wrapper">
-                    <h2>Music Store</h2>
+                    <a href="musicstore"><h2>Music Store</h2></a>
                 </div>
             </div>
         </>
